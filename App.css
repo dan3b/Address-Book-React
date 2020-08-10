@@ -1,0 +1,21 @@
+body{
+  font-family: 'Libre Baskerville', serif;
+  background-color: lightblue;
+  color: black;
+  justify-content: center;
+}
+body, html{
+  width: 100%;
+  margin: 0;
+}
+
+h1 {
+  background: #4173b1;
+    border: 1px solid #37598a;
+    box-shadow: 0 1px 0 rgba(255,255,255,0.3) inset;
+    height: 54px;
+    padding: 16px; 
+    z-index: 2;
+    justify-content: center;
+    color: white;
+}
